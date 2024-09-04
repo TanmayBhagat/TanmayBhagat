@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Tanmay Bhagat  
+
+You said:
+# Hi there 👋, I'm Tanmay  
 
 ### Data Analyst   
 
@@ -7,12 +9,12 @@
 ---  
 
 ### 🔍 Currently Learning:  
-- **Data Analysis**: Power BI, Python, SQL, Excel  
+- **Power BI, Python, SQL, Excel**  
 
 ---  
 
 ### 🎓 Fun Fact:  
-I transitioned from a hospitality student to a Data Analyst, bringing a unique perspective to problem-solving and customer service in tech.  
+I transitioned from a hospitality student to a Data Analyst, Love to solve Problems.  
 
 ---  
 
@@ -28,17 +30,10 @@ I transitioned from a hospitality student to a Data Analyst, bringing a unique p
 ---  
 
 ### 🛠️ Languages and Tools:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black)  
-![Excel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg)  
-
----  
-
-### 📈 Pinned Repositories:  
-- [Your Project 1](https://github.com/TanmayBhagat/Sales-Finance-Analytics)  
-- [Your Project 2](https://github.com/yourusername/project2)  
-
+![Power BI](https://img.shields.io/badge/Power%20BI-ffffff?style=flat&logo=powerbi&logoColor=F2C94C)  
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat&logo=python&logoColor=3776AB)  
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat&logo=postgresql&logoColor=4169E1)  
+![Excel](https://img.shields.io/badge/Excel-ffffff?style=flat&logo=microsoft-excel&logoColor=217346)  
 ---  
 
 Thank you for visiting my profile! Let's connect and collaborate!
