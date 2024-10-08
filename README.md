@@ -10,16 +10,16 @@
 
 ### 🔍 Currently Learning: Power BI, Excel, Python, SQL
 
+---
+
+### 🎓 Fun Fact: A Hospitality Graduate Turned IT Professional.
 
 ---
 
-### 🎓 Fun Fact: A Hospitality Graduate Turned IT Professional. 
+### 📫 How to reach me: [tanmaybhagat2@gmail.com](mailto:tanmaybhagat2@gmail.com)
 
 ---
 
-### 📫 How to reach me:- [tanmaybhagat2@gmail.com](mailto:tanmaybhagat2@gmail.com)
-
----
 ### 🌐 Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmaybhagatt/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanmay_bhagat_11/)
 
@@ -33,4 +33,8 @@
 
 ---
 
-Thank you for visiting my profile! Let's connect and collaborate!
+### 📂 My Portfolio: [Tanmay Bhagat's Portfolio](https://codebasics.io/portfolio/Tanmay-Bhagat)
+
+---
+
+Thank you for visiting my profile! Let's connect and collaborate! 
